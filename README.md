@@ -1,2 +1,2 @@
 #Rust Practice 
-###Following tutorial at https://github.com/castlez/RustTutorial.git
+###Following tutorial at https://doc.rust-lang.org/nightly/book/README.html
