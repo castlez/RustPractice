@@ -1,0 +1,6 @@
+[package]
+name = "echo_prog"
+version = "0.1.0"
+authors = ["castle <jcastle@tripwire.com>"]
+
+[dependencies]
