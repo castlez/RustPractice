@@ -1,5 +1,5 @@
 // Solution to Project Euler problem 5
-
+use std::io::{self, Write};
 ///Global input
 const A:[i64;20] = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20];
 
@@ -10,6 +10,8 @@ fn main() {
 
     let second_result = take_two();
     println!("Second attempt result = {}",second_result);
+	let mut input = String::new();
+	io::stdin().read_line(&mut input);
 }
 
 ///First attempt (fails)
