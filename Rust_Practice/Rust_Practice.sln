@@ -13,6 +13,8 @@ Project("{78C9907C-C22D-4F8D-B13A-49F213FF1631}") = "hw", "helloworld\hw\hw.rspr
 EndProject
 Project("{78C9907C-C22D-4F8D-B13A-49F213FF1631}") = "ep", "echo_prog\ep\ep.rsproj", "{904D6D10-0946-4FBD-85CF-695F8970C7EF}"
 EndProject
+Project("{78C9907C-C22D-4F8D-B13A-49F213FF1631}") = "struct_prac", "struct_prac\struct_prac.rsproj", "{83822407-C98C-43A1-B409-8BA7748DE3C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|default = Debug|default
@@ -35,6 +37,10 @@ Global
 		{904D6D10-0946-4FBD-85CF-695F8970C7EF}.Debug|default.Build.0 = Debug|default
 		{904D6D10-0946-4FBD-85CF-695F8970C7EF}.Release|default.ActiveCfg = Release|default
 		{904D6D10-0946-4FBD-85CF-695F8970C7EF}.Release|default.Build.0 = Release|default
+		{83822407-C98C-43A1-B409-8BA7748DE3C9}.Debug|default.ActiveCfg = Debug|default
+		{83822407-C98C-43A1-B409-8BA7748DE3C9}.Debug|default.Build.0 = Debug|default
+		{83822407-C98C-43A1-B409-8BA7748DE3C9}.Release|default.ActiveCfg = Release|default
+		{83822407-C98C-43A1-B409-8BA7748DE3C9}.Release|default.Build.0 = Release|default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
