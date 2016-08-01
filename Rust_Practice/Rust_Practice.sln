@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{78C9907C-C22D-4F8D-B13A-49F213FF1631}") = "ssdp6", "projecteuler\sum_square_difference_p6\ssdp6\ssdp6.rsproj", "{BC1762DF-2B80-4FFF-8094-CA64838FDB0E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ProjectEuler", "ProjectEuler", "{15513BB6-9912-43A3-8D22-14D921F190D8}"
+EndProject
+Project("{78C9907C-C22D-4F8D-B13A-49F213FF1631}") = "smp5", "projecteuler\smallest_multiple_p5\smp5\smp5.rsproj", "{BAE34C68-3BD5-4026-8C79-21936F1F076F}"
+EndProject
+Project("{78C9907C-C22D-4F8D-B13A-49F213FF1631}") = "hw", "helloworld\hw\hw.rsproj", "{EEE7FDA8-D5E4-40B1-9880-CF84A730710A}"
+EndProject
+Project("{78C9907C-C22D-4F8D-B13A-49F213FF1631}") = "ep", "echo_prog\ep\ep.rsproj", "{904D6D10-0946-4FBD-85CF-695F8970C7EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|default = Debug|default
+		Release|default = Release|default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC1762DF-2B80-4FFF-8094-CA64838FDB0E}.Debug|default.ActiveCfg = Debug|default
+		{BC1762DF-2B80-4FFF-8094-CA64838FDB0E}.Debug|default.Build.0 = Debug|default
+		{BC1762DF-2B80-4FFF-8094-CA64838FDB0E}.Release|default.ActiveCfg = Release|default
+		{BC1762DF-2B80-4FFF-8094-CA64838FDB0E}.Release|default.Build.0 = Release|default
+		{BAE34C68-3BD5-4026-8C79-21936F1F076F}.Debug|default.ActiveCfg = Debug|default
+		{BAE34C68-3BD5-4026-8C79-21936F1F076F}.Debug|default.Build.0 = Debug|default
+		{BAE34C68-3BD5-4026-8C79-21936F1F076F}.Release|default.ActiveCfg = Release|default
+		{BAE34C68-3BD5-4026-8C79-21936F1F076F}.Release|default.Build.0 = Release|default
+		{EEE7FDA8-D5E4-40B1-9880-CF84A730710A}.Debug|default.ActiveCfg = Debug|default
+		{EEE7FDA8-D5E4-40B1-9880-CF84A730710A}.Debug|default.Build.0 = Debug|default
+		{EEE7FDA8-D5E4-40B1-9880-CF84A730710A}.Release|default.ActiveCfg = Release|default
+		{EEE7FDA8-D5E4-40B1-9880-CF84A730710A}.Release|default.Build.0 = Release|default
+		{904D6D10-0946-4FBD-85CF-695F8970C7EF}.Debug|default.ActiveCfg = Debug|default
+		{904D6D10-0946-4FBD-85CF-695F8970C7EF}.Debug|default.Build.0 = Debug|default
+		{904D6D10-0946-4FBD-85CF-695F8970C7EF}.Release|default.ActiveCfg = Release|default
+		{904D6D10-0946-4FBD-85CF-695F8970C7EF}.Release|default.Build.0 = Release|default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BC1762DF-2B80-4FFF-8094-CA64838FDB0E} = {15513BB6-9912-43A3-8D22-14D921F190D8}
+		{BAE34C68-3BD5-4026-8C79-21936F1F076F} = {15513BB6-9912-43A3-8D22-14D921F190D8}
+	EndGlobalSection
+EndGlobal
